@@ -1,2 +1,3 @@
 Welcome to the git version control.
 Making my first changes in my text.
+Working with diff command.
